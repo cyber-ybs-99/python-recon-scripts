@@ -4,7 +4,6 @@ import sys
 # ---------------------------------------------------------
 # Basit Port Tarayıcı (Simple Port Scanner)
 # Geliştirici: cyber-ybs-99
-# İletişim / Sosyal Medya: @siber_yolcu_01
 # ---------------------------------------------------------
 
 def scan_port(ip, port):
